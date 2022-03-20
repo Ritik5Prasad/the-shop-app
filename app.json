@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RN Guide",
-    "slug": "rn-complete-guide",
+    "name": "the-shop-App",
+    "slug": "the-shop-app",
     "privacy": "public",
     "platforms": [
       "ios",
@@ -10,11 +10,11 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/R.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Ritik.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
